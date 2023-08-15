@@ -1,6 +1,5 @@
 # lean_to_win_assesment
 Flutter and React Native App source 
-[Web-Flutter.webm](https://github.com/sathishcanine/lean_to_win_assesment/assets/21257332/a6a14a63-371d-4654-b1cf-a2893b0cfadd)
 
 ![Uploading Linux-Flutter-L2W.png…]()
 
