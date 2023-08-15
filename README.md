@@ -1,4 +1,4 @@
-# lean_to_win_assesment
+# Lean to win assesment
 Flutter and React Native App source 
 
 
